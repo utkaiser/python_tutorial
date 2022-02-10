@@ -1,30 +1,30 @@
 # Python Tutorial
 
-### Ziele des Kurses:
+This repository contains an introduction to various concepts of programming in Python. Each section has a theory and 
+a practice part with solutions.
+
+### Goals of this course:
 * Basics in Python
-* Einführung in die Data Science
-* Objektorientierte Programmierung
-* Testing in Python
+* Introduction to Data Science
+* OOP
+* Testing
 * Mocking
+* Machine Learning
 
 ### Get Started:
 
-1. Lade dir das Git-Repository herunter.
-2. Installiere das Programm Anaconda (https://www.anaconda.com/products/individual), um Jupyter Notebooks nutzen zu können.
-3. Als weitere Entwicklungsumgebung nutzen wir PyCharm (https://www.jetbrains.com/pycharm/download).
-4. Öffnen Sie nun das erste Jupyter Notebook (Teil_1_Basics_in_Python/1._Überblick_Python).
-5. Installiere folgende Module (durch Eingabe der Befehle in eine beliebige Zeile):
+1. Download the Git
+2. Install Anaconda (https://www.anaconda.com/products/individual) to use Jupyter Notebook.
+3. We use Pycharm (https://www.jetbrains.com/pycharm/download) as an IDE.
+4. The requirements to get started:
    - Pandas (pip install pandas)
    - Matplotlib (pip install matplotlib)
    - Pytest (pip install pytest)
    - Coverage (pip install coverage und pip install pytest-cov)
-   - HTML-Report für Pytest (pip install pytest-html)
+   - HTML-Report for Pytest (pip install pytest-html)
 
-### Hinweise zu Juypter Notebooks:
+### Juypter Notebooks advice:
 
 - [Users Manual der Jupyter Notebooks](https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb)
-- Jupter Notebook ist auch mit R nutzbar: conda install -c r r-essentials<br>
-  Diese "Essentials" enthalten die Packages dplyr, shiny, ggplot2, tidyr, caret, and nnet.<br>
-  Weitere Packages sind folgendermaßen importierbar: conda skeleton cran ldavis, conda build r-ldavis/
-- ["Magic Commands"](https://ipython.readthedocs.io/en/stable/interactive/magics.html) bzgl. des IPython Kernel: Installation über pip install ipython-sql
-- weitere Informationen unter [Teil_1_Basics_in_Python/2._Einführung_Jupyter_Notebooks.ipynb](https://git.cc-demo.com/tutorials/python/Python_Tutorial/-/blob/master/Teil_1_Basics_in_Python/2._Einf%C3%BChrung_Jupyter_Notebooks.ipynb)
+- Jupter Notebooks are usable with R as well: conda install -c r r-essentials<br>
+- ["Magic Commands"](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
