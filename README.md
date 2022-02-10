@@ -1,7 +1,7 @@
 # Python Tutorial
 
 This repository contains an introduction to various concepts of programming in Python. Each section has a theory and 
-a practice part with solutions.
+a practice part with solutions, as well as a dataset assoicated with it.
 
 ### Goals of this course:
 * Basics in Python
