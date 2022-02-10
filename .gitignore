@@ -4,7 +4,6 @@
 *__init__
 *.pytest_cache
 *.idea
-data
 Agenda_Einführung.pdf
 Intro_Python.pdf
 .ipynb_checkpoints
